@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Roboto';
-    src: url("fonts/Roboto-Regular.ttf") format("TrueType");
+    src: url("Roboto-Regular.ttf") format("TrueType");
 }  
 
 @font-face {
     font-family: 'PlayfairDisplay-Regular';
-    src: url("fonts/PlayfairDisplay-Regular.ttf");
+    src: url("PlayfairDisplay-Regular.ttf");
 }
 
 @font-face {
     font-family: 'PlayfairDisplay-Black';
-    src: url("fonts/PlayfairDisplay-Black.ttf");
+    src: url("PlayfairDisplay-Black.ttf");
 }
 
 body {
@@ -50,7 +50,7 @@ header {
         }
 
 #under-water {
-    background-image: url(files/hotel.jpg);
+    background-image: url(hotel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -130,7 +130,7 @@ header {
     margin-top: 51px;
     padding: 33px;
     background-color: #f7f7f7;
-    background-image: url(img/ellipse.png);
+    background-image: url(ellipse.png);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
